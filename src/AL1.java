@@ -5,7 +5,7 @@ import java.util.ListIterator;
 class AL1{  
  public static void main(String args[]){  
   //ArrayList<String> list=new ArrayList<String>();
-//Hello 
+//Hello 1
 	 
 	 LinkedList<String> list=new LinkedList<String>(); 
   list.add("Ravi");  
