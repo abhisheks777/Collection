@@ -26,7 +26,7 @@ class AL1{
   /*while(itr.hasPrevious()){  
    System.out.println(itr.previous());
   } */ 
-  //Hello Changed///111
+  //Hello Changed//
   ///abc//////////////
  }  
 }}
