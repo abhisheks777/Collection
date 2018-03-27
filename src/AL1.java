@@ -18,9 +18,9 @@ class AL1{
   System.out.println(list.get(2));
   while(itr.hasNext()){  
    System.out.println(itr.next());}
- /* System.out.println(list);
+  System.out.println(list);
   for(String obj:list) {
-	  System.out.println(obj);*/
+	  System.out.println(obj);
   
    
   /*while(itr.hasPrevious()){  
@@ -29,4 +29,4 @@ class AL1{
   //Hello Changed///111
   ///abc///////////////12345
  }  
-}  
+}}
