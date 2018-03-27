@@ -22,7 +22,7 @@ class AL1{
   for(String obj:list) {
 	  System.out.println(obj);
   
-   
+   // Edited b1
   /*while(itr.hasPrevious()){  
    System.out.println(itr.previous());
   } */ 
