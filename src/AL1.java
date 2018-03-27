@@ -30,7 +30,7 @@ class AL1{
    System.out.println(itr.previous());
   } */ 
   //Hello Changed//
-  ///abc///////23245
+  // Ab
  }  
 }}
 
