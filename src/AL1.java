@@ -19,6 +19,9 @@ class AL1{
   while(itr.hasNext()){  
    System.out.println(itr.next());}
   System.out.println(list);
+
+ System.out.println(list);
+
   for(String obj:list) {
 	  System.out.println(obj);
   
@@ -30,3 +33,5 @@ class AL1{
   ///abc///////23245
  }  
 }}
+
+
